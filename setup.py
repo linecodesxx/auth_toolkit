@@ -4,11 +4,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="auth-toolkit",
+    name="fastapi-flex-auth-toolkit",
     version="0.1.0",
     author="linecodesx",
     author_email="feyte11@icloud.com",
-    description="Flexible authentication toolkit",
+    description="Flexible authentication fastapi toolkit with websocet if u need",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/linecodesxx/auth_toolkit",
