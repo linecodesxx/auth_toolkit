@@ -11,7 +11,7 @@ setup(
     description="Flexible authentication toolkit",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/linecodexx/auth_toolkit",
+    url="https://github.com/linecodesxx/auth_toolkit",
     license_files=["LICENSE"],
     packages=find_packages(),
     classifiers=[

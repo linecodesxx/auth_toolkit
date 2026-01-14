@@ -65,7 +65,7 @@ user_id = auth.get_user_from_token(token)
 ## Requirements / Требования
 
 - Python >= 3.8
-- PyJWT >= 2.0.0
+- jwt >= 2.0.0
 - pwdlib >= 1.0.0
 - fastapi >= 0.100.0 (optional, for WebSocket plugin)
 
