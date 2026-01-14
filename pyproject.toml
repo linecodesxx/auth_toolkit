@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "auth-toolkit"
+name = "fastapi-flex-auth-toolkit"
 version = "0.1.0"
-description = "Flexible authentication toolkit"
+description = "Flexible authentication fastapi toolkit with websocet if u need"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
@@ -32,5 +32,5 @@ dependencies = [
 websocket = ["fastapi>=0.100.0"]
 
 [project.urls]
-Homepage = "https://github.com/linecodexx/auth_toolkit"
-Repository = "https://github.com/linecodexx/auth_toolkit"
+Homepage = "https://github.com/linecodesxx/auth_toolkit"
+Repository = "https://github.com/linecodesxx/auth_toolkit"
