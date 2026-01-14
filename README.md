@@ -7,19 +7,19 @@ Flexible authentication module for Python applications.
 ## Installation / Установка
 
 ```bash
-pip install auth-toolkit
+pip install auth-toolkit-fastapi
 ```
 
 For WebSocket support / С поддержкой WebSocket:
 
 ```bash
-pip install auth-toolkit[websocket]
+pip install auth-toolkit-fastapi[websocket]
 ```
 
 ## Quick Start / Быстрый старт
 
 ```python
-from auth_toolkit import Auth, DefaultMethods
+from auth_toolkit_fastapi import Auth, DefaultMethods
 
 # Create your own methods class
 # Создайте собственный класс методов
