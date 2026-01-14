@@ -7,19 +7,19 @@ Flexible authentication module for Python applications.
 ## Installation / Установка
 
 ```bash
-pip install fastapi-flex-auth-toolkit
+pip install auth-toolkit
 ```
 
 For WebSocket support / С поддержкой WebSocket:
 
 ```bash
-pip install fastapi-flex-auth-toolkit[websocket]
+pip install auth-toolkit[websocket]
 ```
 
 ## Quick Start / Быстрый старт
 
 ```python
-from fastapi_flex_auth_toolkit import Auth, DefaultMethods
+from auth_toolkit import Auth, DefaultMethods
 
 # Create your own methods class
 # Создайте собственный класс методов
